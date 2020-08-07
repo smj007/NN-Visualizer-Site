@@ -1,5 +1,5 @@
 # NN-Visualizer-Site
-Basic neural network visualisation using streamlit
+ Web based visualization of neural network prediction using keras and streamlit
 
 ## Running the program
 1. Train the model and download the model weights as `model.h5`.
